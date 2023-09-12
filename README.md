@@ -33,11 +33,9 @@ Welcome to the Crop and Weed Detection repository! This open-source project is d
 - **CropAndWeedDetection_Yashwanth_USC_UCT.pdf:** Documentation for the project.
 
 ### Running the Project
-To run this project, follow these steps:
-1. **Generate Dataset Files**:
-   - First, you need to generate the dataset files `X.npy` and `Y.npy` by running the [TrainDataSet](https://github.com/yashwanthreddy28/upskillcampus/blob/main/TrainDataSet.py) script.
-2. **Run CropAndWeedDetection.py**:
-   - After generating the dataset files, you can run the [CropAndWeedDetection](https://github.com/yashwanthreddy28/upskillcampus/blob/main/CropAndWeedDetection.py) script to perform further analysis.
+To run this project, 
+1. **Run CropAndWeedDetection.py**:
+   - you can run the [CropAndWeedDetection](https://github.com/yashwanthreddy28/upskillcampus/blob/main/CropAndWeedDetection.py) script to perform further analysis.
 
 ### Contribution Guidelines
 We welcome contributions from the community! Whether you're interested in improving our algorithms, adding new features, or fixing bugs, please read our Contribution Guidelines to get started.
