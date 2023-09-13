@@ -52,5 +52,6 @@ If you have any questions, encounter issues, or want to collaborate, please open
 1. **Yashwanth Reddy** - [GitHub](https://github.com/yashwanthreddy28) - yashwanthr946@gmail.com
 2. **Akash Lagishetty** - [GitHub](https://github.com/AkashLagishetty) - lagishettyakash06@gmail.com
 3. **Nikhil Goud** - [GitHub](https://github.com/NIKHIL2232) - nikhilvamshigoud@gmail.com
+4. **Bandela Shiva** - [GitHub](https://github.com/Shiva-605) - bandelashiva605@gmail.com
 
 Join us in revolutionizing agriculture through cutting-edge technology! Together, we can make farming more efficient and sustainable.
